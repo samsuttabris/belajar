@@ -1,1 +1,1 @@
-halo sam
+const nama = samsut
