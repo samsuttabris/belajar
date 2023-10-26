@@ -1,0 +1,1 @@
+const beda = oke;
